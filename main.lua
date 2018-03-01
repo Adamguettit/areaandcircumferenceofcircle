@@ -1,13 +1,10 @@
 -----------------------------------------------------------------------------------------
-
 --
-
--- 
-
--- 
-
+-- main.lua
+-- created on : march 1
+-- createb by : Adam
+-- This code calculates the area and circumference of the circle
 -----------------------------------------------------------------------------------------
-
 local radiousTextField = native.newTextField( display.contentCenterX, display.contentCenterY + 200, 450, 75 )
 
 radiousTextField.id = "radious textField"
